@@ -1,0 +1,13 @@
+.rodapePagina{
+  background-color: #6278F7;  
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  align-items: center;
+  padding: 4rem;
+}
+
+.icone{
+  display: flex;
+  gap: 1rem;
+}
